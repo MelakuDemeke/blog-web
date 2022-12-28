@@ -12,7 +12,7 @@ npm install
 ```
 
 ## Result of the code
-![site picture](img/home.png)
+![site picture](img/page.gif)
 
 ## what i learn
 1. node
